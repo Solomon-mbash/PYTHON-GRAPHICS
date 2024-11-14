@@ -6,7 +6,7 @@ screen = Screen()
 screen.setup(width=500, height=400)
 
 # Define the colors for the turtles
-colors = ["red","orange", "blue","purple","yellow","green"]
+colors = ["red","orange", "blue","purple","cyan","green"]
 
 # Prompt the user to guess the winning turtle's color
 guess = screen.textinput(title="turtle betting!", prompt="guess the color of turtle which is going to win? ")
