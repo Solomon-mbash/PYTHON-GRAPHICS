@@ -44,11 +44,11 @@ Welcome to my collection of fun and interactive Python projects built using the 
 2️⃣ Install the Turtle module (comes pre-installed with Python)
 3️⃣ Clone the repository using:
    ```sh
-   git clone https://github.com/your-username/your-repository.git
+  git clone https://github.com/Solomon-mbash/PYTHON-GRAPHICS.git
    ```
 4️⃣ Navigate to the project folder:
    ```sh
-   cd your-repository
+   cd PYTHON-GRAPHICS
    ```
 5️⃣ Run the desired script:
    ```sh
